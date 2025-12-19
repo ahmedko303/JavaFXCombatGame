@@ -1,0 +1,14 @@
+com\combatgame\model\Archer.class
+com\combatgame\model\Projectile.class
+com\combatgame\model\CharacterFactory.class
+com\combatgame\model\Wizard.class
+com\combatgame\model\WeaponRegistry.class
+com\combatgame\model\Bowler.class
+com\combatgame\model\Rogue.class
+com\combatgame\view\SelectionScene.class
+com\combatgame\Launcher.class
+com\combatgame\Main.class
+com\combatgame\model\Weapon.class
+com\combatgame\view\GameArena$1.class
+com\combatgame\model\Character.class
+com\combatgame\view\GameArena.class
